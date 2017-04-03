@@ -1,2 +1,4 @@
 # maven-repo
-Repository for maven library
+| groupId                                        | artifactId    | version        |
+| :--------------------------------------------- | :------------ | :------------- |
+| [**nukkitplugin**](nukkitplugin/JsonSimpleLib) | JsonSimpleLib | 1.0.0-SNAPSHOT |
